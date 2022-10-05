@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkresponsive_sales_dashboard"]=self["webpackChunkresponsive_sales_dashboard"]||[]).push([[168],{4168:function(s,e,n){n.r(e),n.d(e,{default:function(){return i}});var a=function(){var s=this;s._self._c;return s._m(0)},t=[function(){var s=this,e=s._self._c;return e("div",{staticClass:"about"},[e("h1",[s._v("This is an about page.")])])}],u=n(1001),r={},l=(0,u.Z)(r,a,t,!1,null,null,null),i=l.exports}}]);
+//# sourceMappingURL=168.dc5a54bf.js.map
