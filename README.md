@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a responsive shoe sales dashboard website design built using Vue.js and Vuetify. You can access the site via the attached link.
+This is a responsive shoe sales dashboard website design built using Vue.js with Vue CLI and Vuetify. You can access the site via the attached link.
 
 ## Project setup
 ```
